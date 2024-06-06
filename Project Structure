@@ -1,0 +1,10 @@
+project_prediction_tool/
+│
+├── app.py                  # Main application file
+├── model.py                # Model training and prediction functions
+├── requirements.txt        # Dependencies
+├── templates/
+│   ├── index.html          # HTML template for the web interface
+│
+└── static/
+    ├── style.css           # CSS for styling the web interface
